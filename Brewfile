@@ -133,6 +133,7 @@ brew socat
 brew sqlite
 brew ssh-copy-id
 brew the_silver_searcher
+brew tig
 brew tmux
 brew unibilium
 brew utf8proc
