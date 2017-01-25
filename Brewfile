@@ -31,6 +31,7 @@ cask lastpass
 cask mame
 cask menumeters
 cask messenger
+cask mixxx
 cask mplayerx
 cask rawtherapee
 cask silverlight
