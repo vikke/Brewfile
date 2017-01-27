@@ -37,6 +37,10 @@ cask rawtherapee
 cask silverlight
 cask skitch
 cask skype
+cask java
+cask messenger
+cask osxfuse
+cask psequel
 cask slack
 cask soundflower
 cask spotify
@@ -50,6 +54,9 @@ cask wineskin-winery
 cask xquartz
 
 tap homebrew/binary
+tap caskroom/versions
+cask adobe-photoshop-cs6
+cask pgadmin3
 
 tap homebrew/bundle
 
@@ -70,6 +77,11 @@ brew dirmngr
 brew emacs
 brew ffmpeg
 brew fontconfig
+brew dfu-programmer
+brew dfu-util
+brew dirmngr
+brew docker
+brew docker-machine
 brew freetype
 brew gd
 brew gdbm
@@ -107,6 +119,10 @@ brew libusb-compat
 brew libuv
 brew libvterm
 brew mobile-shell
+brew libyaml
+brew mas
+brew mobile-shell
+brew mpfr
 brew msgpack
 brew nkf
 brew node
@@ -129,6 +145,9 @@ brew ruby-build
 brew sdl
 brew sdl2
 brew shared-mime-info
+brew redis
+brew ruby
+brew ruby-build
 brew socat
 brew sqlite
 brew ssh-copy-id
@@ -137,6 +156,8 @@ brew tig
 brew tmux
 brew unibilium
 brew utf8proc
+brew vifm
+brew vim
 brew w3m
 brew wakatime-cli
 brew webp
@@ -152,6 +173,8 @@ tap homebrew/games
 brew advancemame
 
 tap homebrew/php
+
+tap homebrew/services
 
 tap homebrew/versions
 
@@ -172,4 +195,12 @@ appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 539883307 LINE (4.11.1)
 appstore 411213048 LadioCast (000012000)
 appstore 497799835 Xcode (8.2.1)
+appstore 682658836 GarageBand (10.1.5)
+appstore 1127487414 Install macOS Sierra (12.0.49)
+appstore 409183694 Keynote (6.6.2)
+appstore 539883307 LINE (4.11.1)
+appstore 926036361 LastPass (3.18.0)
+appstore 409203825 Numbers (3.6.2)
+appstore 1101621241 OctoMouse (1.5.1)
+appstore 409201541 Pages (5.6.2)
 appstore 408981434 iMovie (10.1.4)
