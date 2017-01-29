@@ -35,6 +35,7 @@ cask mixxx
 cask mplayerx
 cask osxfuse
 cask psequel
+cask rar
 cask rawtherapee
 cask silverlight
 cask skitch
