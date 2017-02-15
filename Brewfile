@@ -157,11 +157,6 @@ brew avr-libc
 tap rcmdnk/file
 brew brew-file
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask thunderbird-ja (!)
-
 # App Store applications
 appstore 682658836 GarageBand (10.1.6)
 appstore 1127487414 Install macOS Sierra (12.0.49)
