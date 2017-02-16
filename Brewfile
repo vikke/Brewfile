@@ -27,6 +27,7 @@ cask psequel
 cask slack
 cask virtualbox-extension-pack
 cask virtualbox
+cask vivaldi
 cask xquartz
 
 tap caskroom/versions
@@ -158,7 +159,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 682658836 GarageBand (10.1.6)
+appstore 682658836 GarageBand (10.1.5)
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 409183694 Keynote (6.6.2)
 appstore 539883307 LINE (4.11.1)
