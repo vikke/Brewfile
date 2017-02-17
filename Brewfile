@@ -159,12 +159,12 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 682658836 GarageBand (10.1.5)
+appstore 682658836 GarageBand (10.1.6)
+appstore 408981434 iMovie (10.1.4)
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 409183694 Keynote (6.6.2)
-appstore 539883307 LINE (4.11.1)
 appstore 926036361 LastPass (3.18.0)
+appstore 539883307 LINE (4.11.1)
 appstore 409203825 Numbers (3.6.2)
 appstore 1101621241 OctoMouse (1.5.1)
 appstore 409201541 Pages (5.6.2)
-appstore 408981434 iMovie (10.1.4)
