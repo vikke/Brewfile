@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 cask accessmenubarapps
+cask adobe-acrobat
 cask alfred
 cask android-file-transfer
 cask android-studio
@@ -25,6 +26,7 @@ cask messenger
 cask osxfuse
 cask psequel
 cask slack
+cask squirrelsql
 cask virtualbox-extension-pack
 cask virtualbox
 cask vivaldi
@@ -48,6 +50,7 @@ brew bash
 brew bash-completion
 brew bash-git-prompt
 brew bdw-gc
+brew bfg
 brew cmake
 brew ctags
 brew dasht
@@ -71,10 +74,14 @@ brew gnupg2
 brew go
 brew gpg-agent
 brew graphviz
+brew hadoop
 brew heroku
 brew htop
+brew icu4c
 brew imagemagick
+brew jemalloc
 brew jpeg
+brew jq
 brew lha
 brew libassuan
 brew libevent
@@ -92,15 +99,21 @@ brew libusb-compat
 brew libuv
 brew libvterm
 brew libyaml
+brew mecab
+brew mecab-ipadic
 brew mobile-shell
 brew mpfr
 brew msgpack
+brew node
+brew oniguruma
 brew openssl
 brew openssl@1.1
 brew ossp-uuid
 brew pandoc
+brew pbzip2
 brew pcre
 brew perl
+brew pigz
 brew pinentry
 brew pkg-config
 brew postgresql
@@ -161,10 +174,9 @@ brew brew-file
 # App Store applications
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
-appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 409183694 Keynote (6.6.2)
 appstore 926036361 LastPass (3.18.0)
-appstore 539883307 LINE (4.11.1)
+appstore 539883307 LINE (4.12.1)
 appstore 409203825 Numbers (3.6.2)
 appstore 1101621241 OctoMouse (1.5.1)
 appstore 409201541 Pages (5.6.2)
