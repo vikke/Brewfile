@@ -175,7 +175,7 @@ brew brew-file
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (6.6.2)
-appstore 926036361 LastPass (3.18.0)
+appstore 926036361 LastPass (3.19.1)
 appstore 539883307 LINE (4.12.2)
 appstore 409203825 Numbers (3.6.2)
 appstore 1101621241 OctoMouse (1.5.1)
