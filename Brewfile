@@ -6,7 +6,6 @@ brew mas
 
 tap caskroom/cask
 cask accessmenubarapps
-cask adobe-acrobat
 cask alfred
 cask android-file-transfer
 cask android-studio
@@ -43,7 +42,9 @@ tap homebrew/bundle
 tap homebrew/completions
 
 tap homebrew/core
-brew ansible
+brew adns
+brew ansible@1.9
+brew apple-gcc42
 brew autoconf
 brew automake
 brew bash
@@ -52,6 +53,7 @@ brew bash-git-prompt
 brew bdw-gc
 brew bfg
 brew cmake
+brew connect
 brew ctags
 brew dasht
 brew dfu-programmer
@@ -70,7 +72,8 @@ brew git-flow
 brew git-lfs
 brew glib
 brew gmp
-brew gnupg2
+brew gnupg
+brew gnutls
 brew go
 brew gpg-agent
 brew graphviz
@@ -91,24 +94,32 @@ brew libgpg-error
 brew libksba
 brew libmpc
 brew libpng
+brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunistring
 brew libusb
 brew libusb-compat
 brew libuv
 brew libvterm
 brew libyaml
+brew lv
 brew mecab
 brew mecab-ipadic
 brew mobile-shell
+brew mp3info
 brew mpfr
 brew msgpack
+brew nettle
 brew node
+brew npth
 brew oniguruma
+brew openssh
 brew openssl
 brew openssl@1.1
 brew ossp-uuid
+brew p11-kit
 brew pandoc
 brew pbzip2
 brew pcre
@@ -121,6 +132,7 @@ brew protobuf
 brew pth
 brew python
 brew python3
+brew qt
 brew rbenv
 brew rbenv-default-gems
 brew readline
@@ -131,6 +143,7 @@ brew ruby-build
 brew socat
 brew sqlite
 brew ssh-copy-id
+brew sshfs
 brew teensy_loader_cli
 brew the_silver_searcher
 brew tig
@@ -145,8 +158,6 @@ brew wget
 brew xz
 
 tap homebrew/dupes
-brew apple-gcc42
-brew openssh
 
 tap homebrew/fuse
 
@@ -171,12 +182,16 @@ brew avr-libc
 tap rcmdnk/file
 brew brew-file
 
+# Cask applications
+cask adobe-acrobat
+
 # App Store applications
-appstore 682658836 GarageBand (10.1.6)
-appstore 408981434 iMovie (10.1.4)
+appstore 595191960 CopyClip (1.9)
+appstore 682658836 GarageBand (10.2.0)
+appstore 408981434 iMovie (10.1.6)
 appstore 409183694 Keynote (6.6.2)
-appstore 926036361 LastPass (3.19.1)
-appstore 539883307 LINE (4.12.2)
+appstore 926036361 LastPass (3.19.3)
+appstore 539883307 LINE (5.1.1)
 appstore 409203825 Numbers (3.6.2)
 appstore 1101621241 OctoMouse (1.5.1)
 appstore 409201541 Pages (5.6.2)
