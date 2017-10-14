@@ -5,6 +5,49 @@ tap homebrew/core
 brew adns
 brew advancemame
 brew app-engine-go-64
+tap argon/mas
+brew mas
+
+tap caskroom/cask
+cask accessmenubarapps
+cask alfred
+cask android-file-transfer
+cask android-studio
+cask aquaskk
+cask astah-community
+cask clipy
+cask cyberduck
+cask dropbox
+cask evernote
+cask filezilla
+cask firefox
+cask genymotion
+cask gimp
+cask google-chrome
+cask java
+cask messenger
+cask osxfuse
+cask psequel
+cask slack
+cask squirrelsql
+cask virtualbox-extension-pack
+cask virtualbox
+cask vivaldi
+cask xquartz
+
+tap caskroom/versions
+cask adobe-photoshop-cs6
+cask pgadmin3
+
+tap homebrew/binary
+
+tap homebrew/bundle
+
+tap homebrew/completions
+
+tap homebrew/core
+brew adns
+brew apple-gcc42
 brew autoconf
 brew automake
 brew bash
@@ -16,6 +59,7 @@ brew cairo
 brew cask
 brew cmake
 brew cscope
+brew connect
 brew ctags
 brew dasht
 brew dfu-programmer
@@ -86,9 +130,18 @@ brew msgpack
 brew neovim
 brew nettle
 brew nkf
+brew lv
+brew mecab
+brew mecab-ipadic
+brew mobile-shell
+brew mp3info
+brew mpfr
+brew msgpack
+brew nettle
 brew node
 brew npth
 brew oniguruma
+brew openssh
 brew openssl
 brew openssl@1.1
 brew ossp-uuid
@@ -107,6 +160,7 @@ brew protobuf
 brew pth
 brew python
 brew python3
+brew qt
 brew rbenv
 brew rbenv-binstubs
 brew readline
@@ -120,6 +174,8 @@ brew shared-mime-info
 brew socat
 brew sqlite
 brew ssh-copy-id
+brew sshfs
+brew teensy_loader_cli
 brew the_silver_searcher
 brew tig
 brew tmux
@@ -245,4 +301,17 @@ appstore 408981434 iMovie (10.1.6)
 appstore 411213048 LadioCast (000012003)
 appstore 926036361 LastPass (3.24.0)
 appstore 539883307 LINE (5.3.3)
+# Cask applications
+cask adobe-acrobat
+
+# App Store applications
+appstore 595191960 CopyClip (1.9)
+appstore 682658836 GarageBand (10.2.0)
+appstore 408981434 iMovie (10.1.6)
+appstore 409183694 Keynote (6.6.2)
+appstore 926036361 LastPass (3.19.3)
+appstore 539883307 LINE (5.1.1)
+appstore 409203825 Numbers (3.6.2)
+appstore 1101621241 OctoMouse (1.5.1)
+appstore 409201541 Pages (5.6.2)
 appstore 497799835 Xcode (8.2.1)
