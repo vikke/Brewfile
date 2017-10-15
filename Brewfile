@@ -2,11 +2,11 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew adns
 brew advancemame
 brew app-engine-go-64
 tap argon/mas
 brew mas
+brew adns
 
 tap caskroom/cask
 cask accessmenubarapps
@@ -36,7 +36,7 @@ cask vivaldi
 cask xquartz
 
 tap caskroom/versions
-cask adobe-photoshop-cs6
+# cask adobe-photoshop-cs6
 cask pgadmin3
 
 tap homebrew/binary
@@ -302,7 +302,7 @@ appstore 411213048 LadioCast (000012003)
 appstore 926036361 LastPass (3.24.0)
 appstore 539883307 LINE (5.3.3)
 # Cask applications
-cask adobe-acrobat
+# cask adobe-acrobat-reader
 
 # App Store applications
 appstore 595191960 CopyClip (1.9)
