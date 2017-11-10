@@ -5,36 +5,40 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask accessmenubarapps
-cask alfred
-cask android-file-transfer
-cask android-studio
-cask aquaskk
-cask astah-community
-cask clipy
-cask cyberduck
-cask dropbox
-cask evernote
-cask filezilla
-cask firefox
-cask genymotion
-cask gimp
-cask google-chrome
-cask hyperswitch
-cask java
-cask messenger
-cask osxfuse
-cask psequel
 cask slack
-cask squirrelsql
-cask virtualbox-extension-pack
+cask xld
 cask virtualbox
+cask macvim
+cask vlc
+cask accessmenubarapps
+cask genymotion
+cask messenger
 cask vivaldi
+cask osxfuse
+cask evernote
+cask android-file-transfer
+cask dropbox
+cask vagrant
+cask squirrelsql
+cask clipy
+cask gimp
+cask virtualbox-extension-pack
+cask android-studio
+cask cyberduck
+cask firefox
+cask hyperswitch
+cask google-chrome
+cask aquaskk
 cask xquartz
+cask filezilla
+cask java
+cask alfred
+cask psequel
+cask astah-community
 
 tap caskroom/versions
-cask adobe-photoshop-cs6
 cask pgadmin3
+cask adobe-photoshop-cs6
 
 tap homebrew/binary
 
@@ -58,6 +62,7 @@ brew bfg
 brew bison
 brew cmake
 brew connect
+brew cscope
 brew ctags
 brew cvs
 brew dasht
@@ -95,6 +100,7 @@ brew imagemagick
 brew jemalloc
 brew jpeg
 brew jq
+brew lastpass-cli
 brew lha
 brew libassuan
 brew libevent
@@ -114,10 +120,11 @@ brew libusb-compat
 brew libuv
 brew libvterm
 brew libyaml
+brew lua
+brew luajit
 brew lv
 brew mecab
 brew mecab-ipadic
-brew mercurial
 brew mosh
 brew mp3info
 brew mpfr
@@ -127,10 +134,11 @@ brew mutt --with-gpgme --with-s-lang --HEAD
 brew neovim
 brew nettle
 brew node
+brew node-build
+brew nodenv
 brew npth
 brew offlineimap
 brew oniguruma
-brew openssh
 brew openssl
 brew openssl@1.1
 brew ossp-uuid
@@ -143,11 +151,11 @@ brew pigz
 brew pinentry
 brew pkg-config
 brew plantuml
-brew postgresql
+brew postgresql@9.5
 brew protobuf
 brew pth
+brew pyenv
 brew python
-brew python3
 brew qt
 brew rbenv
 brew rbenv-default-gems
@@ -168,8 +176,9 @@ brew tig
 brew tmux
 brew tokyo-cabinet
 brew unibilium
+brew urlview
 brew vifm
-brew vim
+brew vim --with-client-server --with-custom-python --with-custom-ruby --with-gettext --with-lua --with-luajit --with-python3
 brew w3m
 brew webp
 brew wget
@@ -205,6 +214,7 @@ cask adobe-acrobat
 appstore 581915465 Colors (1.2.6)
 appstore 595191960 CopyClip (1.9)
 appstore 682658836 GarageBand (10.2.0)
+appstore 467939042 Growl (2.1.3)
 appstore 408981434 iMovie (10.1.6)
 appstore 409183694 Keynote (6.6.2)
 appstore 926036361 LastPass (3.24.0)
