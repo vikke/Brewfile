@@ -1,51 +1,6 @@
 
 # tap repositories and their packages
 
-tap argon/mas
-brew mas
-
-tap caskroom/cask
-cask slack
-cask xld
-cask virtualbox
-cask macvim
-cask vlc
-cask accessmenubarapps
-cask genymotion
-cask messenger
-cask vivaldi
-cask osxfuse
-cask evernote
-cask android-file-transfer
-cask dropbox
-cask vagrant
-cask squirrelsql
-cask clipy
-cask gimp
-cask virtualbox-extension-pack
-cask android-studio
-cask cyberduck
-cask firefox
-cask hyperswitch
-cask google-chrome
-cask aquaskk
-cask xquartz
-cask filezilla
-cask java
-cask alfred
-cask psequel
-cask astah-community
-
-tap caskroom/versions
-cask pgadmin3
-cask adobe-photoshop-cs6
-
-tap homebrew/binary
-
-tap homebrew/bundle
-
-tap homebrew/completions
-
 tap homebrew/core
 brew adns
 brew ansible
@@ -123,6 +78,7 @@ brew libyaml
 brew lua
 brew luajit
 brew lv
+brew mas
 brew mecab
 brew mecab-ipadic
 brew mosh
@@ -184,6 +140,12 @@ brew webp
 brew wget
 brew xz
 
+tap homebrew/binary
+
+tap homebrew/bundle
+
+tap homebrew/completions
+
 tap homebrew/dupes
 
 tap homebrew/fuse
@@ -198,6 +160,45 @@ tap homebrew/versions
 
 tap homebrew/x11
 
+tap caskroom/cask
+cask slack
+cask xld
+cask virtualbox
+cask macvim
+cask vlc
+cask accessmenubarapps
+cask genymotion
+cask karabiner-elements
+cask messenger
+cask vivaldi
+cask osxfuse
+cask evernote
+cask android-file-transfer
+cask dropbox
+cask vagrant
+cask squirrelsql
+cask clipy
+cask gimp
+cask android-studio
+cask cyberduck
+cask firefox
+cask adobe-acrobat-reader
+cask hyperswitch
+cask google-chrome
+cask aquaskk
+cask xquartz
+cask filezilla
+cask java
+cask alfred
+cask psequel
+cask astah-community
+
+tap caskroom/versions
+cask pgadmin3
+cask adobe-photoshop-cs6
+
+tap argon/mas
+
 tap neovim/neovim
 
 tap osx-cross/avr
@@ -206,9 +207,6 @@ brew avr-gcc
 
 tap rcmdnk/file
 brew brew-file
-
-# Cask applications
-cask adobe-acrobat
 
 # App Store applications
 appstore 581915465 Colors (1.2.6)
