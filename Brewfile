@@ -81,6 +81,7 @@ brew lv
 brew mas
 brew mecab
 brew mecab-ipadic
+brew mercurial
 brew mosh
 brew mp3info
 brew mpfr
@@ -112,6 +113,7 @@ brew protobuf
 brew pth
 brew pyenv
 brew python
+brew python3
 brew qt
 brew rbenv
 brew rbenv-default-gems
@@ -175,6 +177,7 @@ cask osxfuse
 cask evernote
 cask android-file-transfer
 cask dropbox
+cask keycast
 cask vagrant
 cask squirrelsql
 cask clipy
@@ -192,6 +195,7 @@ cask java
 cask alfred
 cask psequel
 cask astah-community
+cask skitch
 
 tap caskroom/versions
 cask pgadmin3
@@ -213,12 +217,11 @@ appstore 581915465 Colors (1.2.6)
 appstore 595191960 CopyClip (1.9)
 appstore 682658836 GarageBand (10.2.0)
 appstore 467939042 Growl (2.1.3)
-appstore 408981434 iMovie (10.1.6)
-appstore 409183694 Keynote (6.6.2)
+appstore 408981434 iMovie (10.1.8)
+appstore 409183694 Keynote (7.3.1)
 appstore 926036361 LastPass (3.24.0)
-appstore 539883307 LINE (5.3.3)
-appstore 409203825 Numbers (3.6.2)
-appstore 1101621241 OctoMouse (1.5.1)
-appstore 409201541 Pages (5.6.2)
+appstore 539883307 LINE (5.4.0)
+appstore 409203825 Numbers (4.3.1)
+appstore 409201541 Pages (6.3.1)
 appstore 408265505 PinPoint (3.7.12)
-appstore 497799835 Xcode (8.2.1)
+appstore 497799835 Xcode (9.1)
