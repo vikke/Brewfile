@@ -45,14 +45,11 @@ brew libusb
 brew libusb-compat
 brew libyaml
 brew mas
-<<<<<<< HEAD
 brew mecab
 brew mecab-ipadic
 brew mercurial
 brew mosh
 brew mp3info
-=======
->>>>>>> origin/master
 brew mpfr
 brew openssl
 brew openssl@1.1
