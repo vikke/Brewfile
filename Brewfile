@@ -40,6 +40,7 @@ brew global --with-sqlite3 --with-ctags --with-pygments
 brew gmp
 brew go
 brew gpg-agent
+brew htop
 brew jemalloc
 brew libassuan
 brew libevent
@@ -122,6 +123,7 @@ tap caskroom/cask
 cask slack
 cask xld
 cask virtualbox
+cask spotify
 cask macvim
 cask vlc
 cask accessmenubarapps
@@ -132,6 +134,7 @@ cask vivaldi
 cask osxfuse
 cask evernote
 cask android-file-transfer
+cask iterm2
 cask dropbox
 cask keycast
 cask vagrant
