@@ -54,6 +54,7 @@ brew mpfr
 brew openssl
 brew openssl@1.1
 brew pkg-config
+brew postgresql@9.5
 brew pth
 brew python
 brew python3
