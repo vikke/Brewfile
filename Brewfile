@@ -9,6 +9,7 @@ brew apple-gcc42
 brew autoconf
 brew automake
 brew awk
+brew awscli
 brew bash
 brew bash-completion
 brew bash-git-prompt
@@ -34,16 +35,26 @@ brew freetype
 brew gawk
 brew gdbm
 brew gettext
+brew git
+brew global --with-sqlite3 --with-ctags --with-pygments
 brew gmp
 brew go
+brew gpg-agent
+brew htop
+brew jemalloc
 brew libassuan
+brew libevent
 brew libgcrypt
 brew libgpg-error
 brew libksba
 brew libpng
+brew libtermkey
 brew libusb
 brew libusb-compat
+brew libuv
+brew libvterm
 brew libyaml
+brew luajit
 brew mas
 brew mecab
 brew mecab-ipadic
@@ -51,21 +62,42 @@ brew mercurial
 brew mosh
 brew mp3info
 brew mpfr
+brew msgpack
+brew mutt --with-gpgme --with-s-lang
+brew neovim
+brew node-build
+brew nodenv
+brew offlineimap
 brew openssl
 brew openssl@1.1
+brew pcre
+brew perl
+brew pinentry
 brew pkg-config
 brew postgresql@9.5
 brew pth
+brew pyenv
 brew python
 brew python3
 brew qt
 brew rbenv
 brew rbenv-default-gems
 brew readline
+brew reattach-to-user-namespace
+brew redis@3.2
+brew ruby
+brew ruby-build
 brew socat
 brew sqlite
+brew telnet
+brew tig
+brew tmux
+brew tokyo-cabinet
+brew unibilium
+brew vim --with-python3
 brew w3m
 brew wget
+brew xz
 
 tap homebrew/binary
 
@@ -91,6 +123,7 @@ tap caskroom/cask
 cask slack
 cask xld
 cask virtualbox
+cask spotify
 cask macvim
 cask vlc
 cask accessmenubarapps
@@ -101,6 +134,7 @@ cask vivaldi
 cask osxfuse
 cask evernote
 cask android-file-transfer
+cask iterm2
 cask dropbox
 cask keycast
 cask vagrant
@@ -134,6 +168,9 @@ tap osx-cross/avr
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew ag
 
 # App Store applications
 appstore 581915465 Colors (1.2.6)
