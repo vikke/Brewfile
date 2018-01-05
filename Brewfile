@@ -141,6 +141,7 @@ cask vagrant
 cask squirrelsql
 cask clipy
 cask gimp
+cask scratch
 cask android-studio
 cask cyberduck
 cask firefox
