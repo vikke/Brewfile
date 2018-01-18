@@ -41,7 +41,9 @@ brew gmp
 brew go
 brew gpg-agent
 brew htop
+brew imagemagick@6
 brew jemalloc
+brew jpeg
 brew libassuan
 brew libevent
 brew libgcrypt
@@ -49,6 +51,8 @@ brew libgpg-error
 brew libksba
 brew libpng
 brew libtermkey
+brew libtiff
+brew libtool
 brew libusb
 brew libusb-compat
 brew libuv
@@ -122,6 +126,7 @@ tap homebrew/x11
 tap caskroom/cask
 cask slack
 cask xld
+cask soundflower
 cask virtualbox
 cask spotify
 cask macvim
@@ -138,6 +143,7 @@ cask iterm2
 cask dropbox
 cask keycast
 cask vagrant
+cask libreoffice
 cask squirrelsql
 cask clipy
 cask gimp
