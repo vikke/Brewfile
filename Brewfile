@@ -91,6 +91,7 @@ brew reattach-to-user-namespace
 brew redis@3.2
 brew ruby
 brew ruby-build
+brew sl
 brew socat
 brew sqlite
 brew telnet
