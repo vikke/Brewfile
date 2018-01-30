@@ -122,6 +122,7 @@ tap homebrew/x11
 tap caskroom/cask
 cask slack
 cask xld
+cask kitty
 cask virtualbox
 cask spotify
 cask macvim
