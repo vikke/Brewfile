@@ -127,11 +127,8 @@ tap homebrew/x11
 tap caskroom/cask
 cask slack
 cask xld
-<<<<<<< HEAD
 cask kitty
-=======
 cask soundflower
->>>>>>> 3b4e642d352aa2972ce72cfbff62ce0926e11d6a
 cask virtualbox
 cask spotify
 cask macvim
