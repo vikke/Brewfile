@@ -41,7 +41,9 @@ brew gmp
 brew go
 brew gpg-agent
 brew htop
+brew imagemagick@6
 brew jemalloc
+brew jpeg
 brew libassuan
 brew libevent
 brew libgcrypt
@@ -49,6 +51,8 @@ brew libgpg-error
 brew libksba
 brew libpng
 brew libtermkey
+brew libtiff
+brew libtool
 brew libusb
 brew libusb-compat
 brew libuv
@@ -87,6 +91,7 @@ brew reattach-to-user-namespace
 brew redis@3.2
 brew ruby
 brew ruby-build
+brew sl
 brew socat
 brew sqlite
 brew telnet
@@ -122,7 +127,11 @@ tap homebrew/x11
 tap caskroom/cask
 cask slack
 cask xld
+<<<<<<< HEAD
 cask kitty
+=======
+cask soundflower
+>>>>>>> 3b4e642d352aa2972ce72cfbff62ce0926e11d6a
 cask virtualbox
 cask spotify
 cask macvim
@@ -139,9 +148,11 @@ cask iterm2
 cask dropbox
 cask keycast
 cask vagrant
+cask libreoffice
 cask squirrelsql
 cask clipy
 cask gimp
+cask scratch
 cask android-studio
 cask cyberduck
 cask firefox
