@@ -79,6 +79,7 @@ brew perl
 brew pinentry
 brew pkg-config
 brew postgresql@9.5
+brew pstree
 brew pth
 brew pyenv
 brew python
@@ -127,8 +128,8 @@ tap homebrew/x11
 tap caskroom/cask
 cask slack
 cask xld
-cask kitty
 cask soundflower
+cask kitty
 cask virtualbox
 cask spotify
 cask macvim
