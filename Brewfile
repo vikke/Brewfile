@@ -154,7 +154,7 @@ cask scratch
 cask android-studio
 cask cyberduck
 cask firefox
-cask adobe-acrobat-reader
+# cask adobe-acrobat-reader
 cask hyperswitch
 cask google-chrome
 cask aquaskk
