@@ -86,6 +86,7 @@ brew postgresql@9.5
 brew pstree
 brew pth
 brew pyenv
+brew python
 brew python@2
 brew qt
 brew rbenv
@@ -157,7 +158,6 @@ cask scratch
 cask android-studio
 cask cyberduck
 cask firefox
-# cask adobe-acrobat-reader
 cask hyperswitch
 cask google-chrome
 cask aquaskk
