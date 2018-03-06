@@ -44,6 +44,7 @@ brew htop
 brew imagemagick@6
 brew jemalloc
 brew jpeg
+brew jq
 brew libassuan
 brew libevent
 brew libgcrypt
@@ -72,6 +73,7 @@ brew neovim
 brew node-build
 brew nodenv
 brew offlineimap
+brew oniguruma
 brew openssl
 brew openssl@1.1
 brew pcre
@@ -83,7 +85,6 @@ brew pstree
 brew pth
 brew pyenv
 brew python
-brew python3
 brew qt
 brew rbenv
 brew rbenv-default-gems
@@ -168,7 +169,6 @@ cask skitch
 
 tap caskroom/versions
 cask pgadmin3
-cask adobe-photoshop-cs6
 
 tap argon/mas
 
@@ -181,6 +181,10 @@ brew brew-file
 
 # Other Homebrew packages
 brew ag
+brew python3
+
+# Cask applications
+cask adobe-photoshop-cs6
 
 # App Store applications
 appstore 581915465 Colors (1.2.6)
