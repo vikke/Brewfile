@@ -49,11 +49,13 @@ brew libassuan
 brew libevent
 brew libgcrypt
 brew libgpg-error
+brew libidn2
 brew libksba
 brew libpng
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunistring
 brew libusb
 brew libusb-compat
 brew libuv
@@ -84,7 +86,7 @@ brew postgresql@9.5
 brew pstree
 brew pth
 brew pyenv
-brew python
+brew python@2
 brew qt
 brew rbenv
 brew rbenv-default-gems
