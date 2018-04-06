@@ -62,6 +62,7 @@ brew libuv
 brew libvterm
 brew libyaml
 brew luajit
+brew lv
 brew mas
 brew mecab
 brew mecab-ipadic
@@ -130,44 +131,44 @@ tap homebrew/versions
 tap homebrew/x11
 
 tap caskroom/cask
-cask slack
-cask xld
-cask soundflower
-cask kitty
-cask virtualbox
-cask spotify
-cask macvim
-cask vlc
 cask accessmenubarapps
-cask genymotion
-cask karabiner-elements
-cask messenger
-cask vivaldi
-cask osxfuse
-cask evernote
-cask android-file-transfer
-cask iterm2
-cask dropbox
-cask keycast
-cask vagrant
-cask libreoffice
-cask squirrelsql
-cask clipy
-cask gimp
-cask scratch
-cask android-studio
-cask cyberduck
-cask firefox
-cask hyperswitch
-cask google-chrome
-cask aquaskk
-cask xquartz
-cask filezilla
-cask java
 cask alfred
-cask psequel
+cask android-file-transfer
+cask android-studio
+cask aquaskk
 cask astah-community
+cask clipy
+cask cyberduck
+cask dropbox
+cask evernote
+cask filezilla
+cask firefox
+cask genymotion
+cask gimp
+cask google-chrome
+cask hyperswitch
+cask iterm2
+cask java
+cask karabiner-elements
+cask keycast
+cask kitty
+cask libreoffice
+cask macvim
+cask messenger
+cask osxfuse
+cask psequel
+cask scratch
 cask skitch
+cask slack
+cask soundflower
+cask spotify
+cask squirrelsql
+cask vagrant
+cask virtualbox
+cask vivaldi
+cask vlc
+cask xld
+cask xquartz
 
 tap caskroom/versions
 cask pgadmin3
@@ -185,7 +186,7 @@ brew brew-file
 brew ag
 brew python3
 
-# Cask applications
+# Other Cask applications
 cask adobe-photoshop-cs6
 
 # App Store applications
